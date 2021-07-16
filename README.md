@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @utpeti.
+- 🌱 I’m currently learning C++ and JavaScript.
+- 📫 How to reach me: Facebook - https://www.facebook.com/profile.php?id=100007030969095
