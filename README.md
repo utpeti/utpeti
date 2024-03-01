@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utpeti&show_icons=true&locale=en&layout=compact" alt="diboti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utpeti&show_icons=true&locale=en" alt="diboti" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utpeti&" alt="diboti" /></p>
