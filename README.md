@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diboti&label=Profile%20views&color=0e75b6&style=flat" alt="diboti" /> </p>
 
-- 🔭 I’m currently working on [mini Database management system](https://github.com/utpeti/Minidbms.git)
+- 🔭 I’m currently working on [mini Database management system](https://github.com/utpeti/AmongDB.git)
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Python, HTML, CSS, JavaScript, NoSQL, Prolog, Haskell**
 
